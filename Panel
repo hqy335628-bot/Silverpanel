@@ -10,5 +10,12 @@
         "key": "mohamad",
         "expirydate": "31-12-2026",
         "Allowoffline": false
+    },
+
+    {
+        "device_id": "d8925ef980c1e2ad",
+        "key": "silver",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
