@@ -10,5 +10,11 @@
         "key": "panel",
         "expirydate": "31-12-2027",
         "Allowoffline": false
+    },
+ {
+        "device_id": "d8925ef980c1e2ad",
+        "key": "ses",
+        "expirydate": "31-12-2027",
+        "Allowoffline": false
     }
 ]
