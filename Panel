@@ -18,5 +18,11 @@
         "key": "Assassin",
         "expirydate": "31-12-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "e62996deed24b138",
+        "key": "Daniel",
+        "expirydate": "31-12-2027",
+        "Allowoffline": false
     }
 ]
