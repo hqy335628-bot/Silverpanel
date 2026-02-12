@@ -1,3 +1,5 @@
+
+
 [
     {
         "device_id": "d8925ef980c1e2ad",
@@ -6,47 +8,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "ffec71a28f8382fe",
-        "key": "panel",
-        "expirydate": "31-12-2027",
-        "Allowoffline": false
-    },
- {
-        "device_id": "d8925ef980c1e2ad",
-        "key": "ses",
-        "expirydate": "31-12-2027",
-        "Allowoffline": false
-    },
- {
-        "device_id": "e62996deed24b138",
-        "key": "dina",
-        "expirydate": "31-12-2027",
-        "Allowoffline": false
-    }،
- {
-        "device_id": "50ab24931cd39c72",
-        "key": "arshya",
-        "expirydate": "31-12-2027",
-        "Allowoffline": false
-    },
-{
-        "device_id": "ffec71a28f8382fe",
-        "key": "sex",
-        "expirydate": "31-12-2027",
-        "Allowoffline": false
-    },
-
-{
-        "device_id": "ffec71a28f8382fe",
-        "key": "Assassin",
-        "expirydate": "31-12-2027",
-        "Allowoffline": false
-    },
-
-{
-        "device_id": "d8925ef980c1e2ad",
-        "key": "xcv",
-        "expirydate": "31-12-2027",
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
     }
 ]
