@@ -41,5 +41,12 @@
         "key": "Assassin",
         "expirydate": "31-12-2027",
         "Allowoffline": false
+    },
+
+{
+        "device_id": "d8925ef980c1e2ad",
+        "key": "xcv",
+        "expirydate": "31-12-2027",
+        "Allowoffline": false
     }
 ]
