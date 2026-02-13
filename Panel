@@ -30,5 +30,11 @@
         "key": "sex",
         "expirydate": "31-12-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "aa2c437ae81d6404",
+        "key": "support",
+        "expirydate": "31-12-2027",
+        "Allowoffline": false
     }
 ]
