@@ -24,5 +24,11 @@
         "key": "Daniel",
         "expirydate": "31-12-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "e37d3797259412c0",
+        "key": "sex",
+        "expirydate": "31-12-2027",
+        "Allowoffline": false
     }
 ]
