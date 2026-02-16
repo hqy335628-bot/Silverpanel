@@ -36,5 +36,11 @@
         "key": "support",
         "expirydate": "31-12-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "bc743c98a435b32a",
+        "key": "GOD",
+        "expirydate": "31-12-2027",
+        "Allowoffline": false
     }
 ]
