@@ -42,10 +42,16 @@
         "key": "GOD",
         "expirydate": "31-12-2027",
         "Allowoffline": false
-    }،
+    },
 {
         "device_id": "ffec71a28f8382fe",
         "key": "Assassin",
+        "expirydate": "31-12-2027",
+        "Allowoffline": false
+    },
+{
+        "device_id": "5c7e49169814be8a",
+        "key": "Silver",
         "expirydate": "31-12-2027",
         "Allowoffline": false
     }
