@@ -60,5 +60,11 @@
         "key": "GTAV",
         "expirydate": "31-12-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "b3eae9f3e8da77ce",
+        "key": "amir",
+        "expirydate": "31-12-2027",
+        "Allowoffline": false
     }
 ]
